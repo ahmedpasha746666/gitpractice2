@@ -7,3 +7,6 @@ print(c)
 
 d=c*2
 print(d)
+
+e=d-10
+print(e)
